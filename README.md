@@ -1,3 +1,3 @@
 LaunchPad-Mini
 ==============
-MSP430G2553 Mini Board
+MSP430G2553 Mini PCB Board
